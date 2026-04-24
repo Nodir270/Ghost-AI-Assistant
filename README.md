@@ -1,8 +1,9 @@
 # 👻 Ghost-AI-Assistant
 
-![Python](https://shields.io)
-![Ollama](https://shields.io)
-![License](https://shields.io)
+[![Python](https://shields.io)](https://python.org)
+[![Ollama](https://shields.io)](https://ollama.com)
+[![License](https://shields.io)](https://opensource.org)
+[![Telegram](https://shields.io)](https://t.me)
 
 **Ghost-AI-Assistant** is a high-tech stealth bridge between your screen and the power of Large Language Models. Designed for environments with strict monitoring, it allows you to capture, recognize, and solve on-screen tasks without leaving a digital footprint.
 
