@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# OCR Debug & Logs
+debug_screenshot.png
+log.txt
+
+# Telegram & API Keys (если вынесешь их в .env файл)
+.env
+
+# Tesseract temporary files
+*.tmp
