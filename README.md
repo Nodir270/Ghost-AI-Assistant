@@ -39,7 +39,7 @@
 
 ### 2. Installation
 ```bash
-git clone https://github.com
+git clone https://github.com/Nodir270
 cd Ghost-AI-Assistant
 pip install -r requirements.txt
 ```
