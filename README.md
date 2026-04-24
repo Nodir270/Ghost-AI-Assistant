@@ -48,6 +48,7 @@ pip install -r requirements.txt
 Open `main.py` and set your credentials:
 - `TELEGRAM_TOKEN`: Your bot token from [@BotFather](https://t.me).
 - `TELEGRAM_CHAT_ID`: Your chat ID from [@userinfobot](https://t.me).
+- Open main.py and fill in the TELEGRAM_TOKEN and TELEGRAM_CHAT_ID variables before running.
 
 ### 4. Running
 Launch the script with **Administrator privileges** (required for global hotkeys):
